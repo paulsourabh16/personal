@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: #00e699;
+  text-align: center;
+}
+.top-container {
+  margin-top: 100px;
+  margin-left: 400px
+}
+
+.mid-container {
+  margin: 0 auto 0 auto;
+}
+.low-container{
+  margin-right: 400px;
+  position: relative;
+  margin-top: 20px;
+}
+.cloud{
+  position: absolute;
+}
+.mountain{
+  position: relative;
+}
+h1{
+  margin: 0 auto 0 auto;
+}
+h4{
+  margin: 0 auto 0 auto;
+}
+.font{
+  font-size: 34px;
+  font-family: serif;
+}
+.back{
+  background-color: #f5f1da;
+  height: auto;
+  width: 300px;
+  padding: 10px;
+  margin-left: 600px;
+
+}
+.padding{
+  padding: 10px;
+}
+.paddingsubmit{
+  padding-top: 10px;
+  padding-left: 40px;
+}
